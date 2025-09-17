@@ -77,6 +77,7 @@
    cmake ..
    make
    cd ../bin && ./server
+   ```
 
 ### ✅ 已搭建服务端 · 即刻畅玩
 
